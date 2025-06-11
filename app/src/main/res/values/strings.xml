@@ -1,0 +1,21 @@
+<resources>
+<string name="app_name">toPresencial_hipica_NaviaJuanma</string>
+<string name="hipica_reservas">Reservas Hípica</string>
+<string name="buscar_reservas">Buscar Reservas</string>
+<string name="nombre_jinete">Nombre del jinete</string>
+<string name="telefono">Teléfono</string>
+<string name="nombre_caballo">Nombre del caballo</string>
+<string name="fecha">Fecha (dd/MM/yyyy)</string>
+<string name="hora">Hora (10:00 o 11:00)</string>
+<string name="comentarios">Comentarios</string>
+<string name="nueva_reserva">Nueva Reserva</string>
+<string name="guardar">Guardar</string>
+<string name="cancelar">Cancelar</string>
+<string name="editar">Editar</string>
+<string name="eliminar">Eliminar</string>
+<string name="enviar_whatsapp">Enviar WhatsApp</string>
+<string name="confirmar_eliminacion">¿Estás seguro de que quieres eliminar esta reserva?</string>
+<string name="reserva_eliminada">Reserva eliminada</string>
+<string name="reserva_actualizada">Reserva actualizada</string>
+<string name="error_whatsapp">Error al abrir WhatsApp</string>
+</resources>
